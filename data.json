@@ -4,6 +4,11 @@
         "title": "PetSitter API",
         "version": "0.1"
     },
+    "servers": [    
+    {
+      "url": "/"
+    }
+    ],
     "tags": [
         {
             "name": "Users",
